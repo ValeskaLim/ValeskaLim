@@ -13,10 +13,6 @@
 
 ###
 
-<p align="left">Ignore the Watson*</p>
-
-###
-
 <h2 align="left">Current Stack</h2>
 
 ###
@@ -37,6 +33,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo"  />
 </div>
 
 ###
@@ -81,4 +89,19 @@
 
 <p align="left"></p>
 
+
 ###
+
+<h2 align="left">Certificate/Badges</h2>
+
+<div align="left">
+  <a href="https://www.credly.com/badges/f7737266-9fa5-4100-b3c9-27a7f8e3ad2a/public_url">
+    <img src="https://images.credly.com/size/340x340/images/20cd679d-43c3-460e-979a-8feba38eaba6/image.png" alt="Manage Kubernetes in Google Cloud Skill Badge" width="180"/>
+  </a>
+  <a href="https://www.credly.com/badges/741a15c0-da33-45a3-8d25-7dd6136186e7/public_url">
+    <img src="https://images.credly.com/size/340x340/images/ba7d317c-0441-493d-9297-840162892581/image.png" alt="Classify Images with TensorFlow on Google Cloud" width="180" />
+  </a>
+  <a href="https://www.credly.com/badges/2a85e16e-3fe3-4994-842a-156c75cc2ac6/public_url">
+    <img src="https://images.credly.com/size/340x340/images/b0e1da4e-e1c9-4201-9803-cf3389e1d0f9/image.png" alt="Share Data Using Google Data Cloud Skill Badge" width="180" />
+  </a>
+</div>
