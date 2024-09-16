@@ -104,4 +104,7 @@
   <a href="https://www.credly.com/badges/2a85e16e-3fe3-4994-842a-156c75cc2ac6/public_url">
     <img src="https://images.credly.com/size/340x340/images/b0e1da4e-e1c9-4201-9803-cf3389e1d0f9/image.png" alt="Share Data Using Google Data Cloud Skill Badge" width="180" />
   </a>
+  <a href="https://www.credly.com/badges/12feeab3-bd91-4bcd-9069-ed8bbe0f8622/public_url">
+    <img src="https://images.credly.com/size/340x340/images/1d95accd-3e3d-466f-a432-5dceb4998fd1/image.png" alt="Use Machine Learning APIs on Google Cloud Skill Badge" width="180" />
+  </a>
 </div>
