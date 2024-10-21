@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <img height="250" src="https://c.tenor.com/QDmfbP3fhAgAAAAC/amelia-watson-vtuber.gif"  />
+  <img width="60%" src="https://i.pinimg.com/originals/f2/2b/cf/f22bcf30acbab8d3fdffaa10c7926d19.gif"  />
 </div>
 
 <h3 align="left">
