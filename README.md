@@ -12,8 +12,6 @@
   Yes i do code
 </h3>
 
-[![](https://visitcount.itsvg.in/api?id=valeskalim&icon=5&color=0)](https://visitcount.itsvg.in)
-
 ###
 
 # 💻 Tech Stack:
