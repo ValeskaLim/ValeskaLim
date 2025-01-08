@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <img width="60%" src="https://i.pinimg.com/originals/f2/2b/cf/f22bcf30acbab8d3fdffaa10c7926d19.gif"  />
+  <img width="100%" src="https://gifdb.com/images/high/hololive-498-x-144-gif-lk1x4bfwsc3z4ivg.gif"  />
 </div>
 
 <h3 align="left">
