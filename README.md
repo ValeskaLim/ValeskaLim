@@ -61,4 +61,10 @@
   <a href="https://www.credly.com/badges/12feeab3-bd91-4bcd-9069-ed8bbe0f8622/public_url">
     <img src="https://images.credly.com/size/340x340/images/1d95accd-3e3d-466f-a432-5dceb4998fd1/image.png" alt="Use Machine Learning APIs on Google Cloud Skill Badge" width="180" />
   </a>
+  <a href="https://www.credly.com/badges/6d295981-7284-489d-b152-8141b5f3ee13/public_url">
+    <img src="https://images.credly.com/size/340x340/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob" alt="Build Real World AI Applications with Gemini and Imagen Skill Badge" width="180">
+  </a>
+  <a href="https://www.credly.com/badges/2e2e5cd2-ab7e-46bd-bc60-de474bb5f9c2/public_url">
+    <img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" width="180">
+  </a>
 </div>
