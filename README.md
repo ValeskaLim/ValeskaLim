@@ -1,4 +1,5 @@
 # 👋SUP MATE!!!
+i watch anime, vtuber and stuff... also rarely using github rn ._.
 
 ###
 
